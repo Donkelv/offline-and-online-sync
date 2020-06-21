@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1051983972581",
+    "firebase_url": "https://internashala-bc76a.firebaseio.com",
+    "project_id": "internashala-bc76a",
+    "storage_bucket": "internashala-bc76a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051983972581:android:a3094281a05340bcc62c0c",
+        "android_client_info": {
+          "package_name": "com.example.Internashala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051983972581-36sj5jca6rmmtq4m3lnts4ghoom35q2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPuybeGK0yHM3Cu3eewPNqgFz77p0A3NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051983972581-36sj5jca6rmmtq4m3lnts4ghoom35q2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
